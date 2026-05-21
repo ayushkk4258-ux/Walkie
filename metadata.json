@@ -1,0 +1,6 @@
+{
+  "name": "Vox7 Walkie Talkie",
+  "description": "Local Wi-Fi and Bluetooth walkie-talkie with auto-discovery, PTT (push-to-talk), and tactile immersive dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
